@@ -1,0 +1,30 @@
+Hai Hung
+90
+Duc Quang
+89
+Thanh Tan
+63
+Duc Tien
+47
+Thanh Phong
+19
+Bot 1
+17
+Bot 2
+15
+Bot 4
+13
+Bot 5
+11
+Bot 6
+10
+Bot 7
+6
+rr
+3
+tt
+1
+DUC TIEN
+0
+THANH TAN
+0
